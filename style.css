@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: rgb(255, 0, 183);
+    color: azure;
+    padding:5px ;
+}
+
+h1{
+    text-align: center;
+    background-color: pink;
+    color: red;
+    border-radius: 15px ;
+}
+
+footer{
+    background-color: blueviolet;
+    padding: 3px;
+}
+
+footer p {
+    background-color: white;;
+}
+
+main nav{
+    background-color: rgb(128, 0, 58);
+  margin: 5px;
+  padding: 5px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    border:1px solid rgb(200, 255, 0);
+    margin: 25px;
+}
+
+.boom{
+    background-color: olive;
+    border: 10px;
+border-radius: 10px;
+}
+main{
+    margin: 
+}
+
+
+
